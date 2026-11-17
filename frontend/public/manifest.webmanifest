@@ -1,0 +1,10 @@
+{
+  "name": "GBL Mobile Health Services",
+  "short_name": "GBL Health",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafb",
+  "theme_color": "#0f766e",
+  "description": "Mobile-first clinical workspace for GBL Mobile Health Services",
+  "icons": []
+}
